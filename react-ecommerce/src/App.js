@@ -2,8 +2,9 @@ import React from 'react';
 import Counter from './features/counter/Counter';
 import './App.css';
 import ProductList from './features/product-list/ProductList';
-import Login from './features/auth/components/Login'
-import Home from './pages/Home'
+import Login from './features/auth/components/Login';
+import CartPage from './features/cart/Cart'
+import Home from './pages/Home';
 import Signup from './features/auth/components/Signup';
 import {
   createBrowserRouter,
@@ -26,6 +27,10 @@ const router = createBrowserRouter([
   {
     path: "/signup",
     element: <Signup></Signup>
+  },
+  {
+    path: "/cart",
+    element: <CartPage></CartPage>
   }
 ])
 
