@@ -1,10 +1,12 @@
 import React from 'react';
 import Counter from './features/counter/Counter';
 import './App.css';
-import ProductList from './features/product-list/ProductList';
+import ProductList from './features/product/components/ProductList';
 import Login from './features/auth/components/Login';
 import CartPage from './features/cart/Cart'
 import Home from './pages/Home';
+import Checkout from './pages/Checkout';
+import ProductDetailPage from './pages/ProductDetailPage';
 import Signup from './features/auth/components/Signup';
 import {
   createBrowserRouter,
@@ -31,7 +33,16 @@ const router = createBrowserRouter([
   {
     path: "/cart",
     element: <CartPage></CartPage>
+  },
+  {
+    path: "/checkout",
+    element: <Checkout></Checkout>
+  },
+  {
+    path: "/product-detail",
+    element: <ProductDetailPage></ProductDetailPage>
   }
+
 ])
 
 function App() {
