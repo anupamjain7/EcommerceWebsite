@@ -7,7 +7,7 @@
       "price": 993,
       "discountPercentage": 12.96,
       "rating": 0,
-      "stock": 94,
+      "stock": 0,
       "brand": "Apple",
       "category": "smartphones",
       "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
@@ -35,7 +35,8 @@
         "https://i.dummyjson.com/data/products/2/2.jpg",
         "https://i.dummyjson.com/data/products/2/3.jpg",
         "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
-      ]
+      ],
+      "deleted": true
     },
     {
       "id": "3",
@@ -50,7 +51,8 @@
       "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
       "images": [
         "https://i.dummyjson.com/data/products/3/1.jpg"
-      ]
+      ],
+      "deleted": true
     },
     {
       "id": "4",
@@ -1861,469 +1863,469 @@
       "value": "Apple",
       "label": "Apple",
       "checked": false,
-      "id": "2757"
+      "id": "43b0"
     },
     {
       "value": "Samsung",
       "label": "Samsung",
       "checked": false,
-      "id": "6c00"
+      "id": "7c95"
     },
     {
       "value": "OPPO",
       "label": "OPPO",
       "checked": false,
-      "id": "f1a1"
+      "id": "8376"
     },
     {
       "value": "Huawei",
       "label": "Huawei",
       "checked": false,
-      "id": "8ead"
+      "id": "0de4"
     },
     {
       "value": "Microsoft Surface",
       "label": "Microsoft Surface",
       "checked": false,
-      "id": "cbd8"
+      "id": "d8b7"
     },
     {
       "value": "Infinix",
       "label": "Infinix",
       "checked": false,
-      "id": "3a20"
+      "id": "0a3f"
     },
     {
       "value": "HP Pavilion",
       "label": "HP Pavilion",
       "checked": false,
-      "id": "ff4e"
+      "id": "c99d"
     },
     {
       "value": "Impression of Acqua Di Gio",
       "label": "Impression of Acqua Di Gio",
       "checked": false,
-      "id": "7f74"
+      "id": "3c50"
     },
     {
       "value": "Royal_Mirage",
       "label": "Royal_Mirage",
       "checked": false,
-      "id": "ca49"
+      "id": "c2df"
     },
     {
       "value": "Fog Scent Xpressio",
       "label": "Fog Scent Xpressio",
       "checked": false,
-      "id": "59f6"
+      "id": "bd01"
     },
     {
       "value": "Al Munakh",
       "label": "Al Munakh",
       "checked": false,
-      "id": "c4bb"
+      "id": "56ca"
     },
     {
       "value": "Lord - Al-Rehab",
       "label": "Lord   Al Rehab",
       "checked": false,
-      "id": "dd2b"
+      "id": "d762"
     },
     {
       "value": "L'Oreal Paris",
       "label": "L'Oreal Paris",
       "checked": false,
-      "id": "3f4f"
+      "id": "927e"
     },
     {
       "value": "Hemani Tea",
       "label": "Hemani Tea",
       "checked": false,
-      "id": "d00e"
+      "id": "9fc0"
     },
     {
       "value": "Dermive",
       "label": "Dermive",
       "checked": false,
-      "id": "e1a2"
+      "id": "d0b1"
     },
     {
       "value": "ROREC White Rice",
       "label": "ROREC White Rice",
       "checked": false,
-      "id": "55d1"
+      "id": "35e2"
     },
     {
       "value": "Fair & Clear",
       "label": "Fair & Clear",
       "checked": false,
-      "id": "74ba"
+      "id": "6863"
     },
     {
       "value": "Saaf & Khaas",
       "label": "Saaf & Khaas",
       "checked": false,
-      "id": "f3d1"
+      "id": "935c"
     },
     {
       "value": "Bake Parlor Big",
       "label": "Bake Parlor Big",
       "checked": false,
-      "id": "06b2"
+      "id": "9936"
     },
     {
       "value": "Baking Food Items",
       "label": "Baking Food Items",
       "checked": false,
-      "id": "00e0"
+      "id": "9fb9"
     },
     {
       "value": "fauji",
       "label": "fauji",
       "checked": false,
-      "id": "d0da"
+      "id": "48db"
     },
     {
       "value": "Dry Rose",
       "label": "Dry Rose",
       "checked": false,
-      "id": "44a9"
+      "id": "e06c"
     },
     {
       "value": "Boho Decor",
       "label": "Boho Decor",
       "checked": false,
-      "id": "8ed0"
+      "id": "d9ab"
     },
     {
       "value": "Flying Wooden",
       "label": "Flying Wooden",
       "checked": false,
-      "id": "282e"
+      "id": "34c1"
     },
     {
       "value": "LED Lights",
       "label": "LED Lights",
       "checked": false,
-      "id": "30d0"
+      "id": "d4ce"
     },
     {
       "value": "luxury palace",
       "label": "luxury palace",
       "checked": false,
-      "id": "29fd"
+      "id": "86e1"
     },
     {
       "value": "Golden",
       "label": "Golden",
       "checked": false,
-      "id": "25f7"
+      "id": "0fdb"
     },
     {
       "value": "Furniture Bed Set",
       "label": "Furniture Bed Set",
       "checked": false,
-      "id": "c0e9"
+      "id": "2d6a"
     },
     {
       "value": "Ratttan Outdoor",
       "label": "Ratttan Outdoor",
       "checked": false,
-      "id": "b2ba"
+      "id": "7938"
     },
     {
       "value": "Kitchen Shelf",
       "label": "Kitchen Shelf",
       "checked": false,
-      "id": "e07a"
+      "id": "9e39"
     },
     {
       "value": "Multi Purpose",
       "label": "Multi Purpose",
       "checked": false,
-      "id": "98b5"
+      "id": "0587"
     },
     {
       "value": "AmnaMart",
       "label": "AmnaMart",
       "checked": false,
-      "id": "1b23"
+      "id": "345b"
     },
     {
       "value": "Professional Wear",
       "label": "Professional Wear",
       "checked": false,
-      "id": "562b"
+      "id": "43dd"
     },
     {
       "value": "Soft Cotton",
       "label": "Soft Cotton",
       "checked": false,
-      "id": "7fe8"
+      "id": "b1ca"
     },
     {
       "value": "Top Sweater",
       "label": "Top Sweater",
       "checked": false,
-      "id": "3ba3"
+      "id": "bdfd"
     },
     {
       "value": "RED MICKY MOUSE..",
       "label": "RED MICKY MOUSE..",
       "checked": false,
-      "id": "107b"
+      "id": "1c44"
     },
     {
       "value": "Digital Printed",
       "label": "Digital Printed",
       "checked": false,
-      "id": "13b4"
+      "id": "2724"
     },
     {
       "value": "Ghazi Fabric",
       "label": "Ghazi Fabric",
       "checked": false,
-      "id": "8dd9"
+      "id": "fca3"
     },
     {
       "value": "IELGY",
       "label": "IELGY",
       "checked": false,
-      "id": "23bb"
+      "id": "bd80"
     },
     {
       "value": "IELGY fashion",
       "label": "IELGY fashion",
       "checked": false,
-      "id": "7cca"
+      "id": "cef9"
     },
     {
       "value": "Synthetic Leather",
       "label": "Synthetic Leather",
       "checked": false,
-      "id": "1a6d"
+      "id": "8e13"
     },
     {
       "value": "Sandals Flip Flops",
       "label": "Sandals Flip Flops",
       "checked": false,
-      "id": "4b51"
+      "id": "3bb1"
     },
     {
       "value": "Maasai Sandals",
       "label": "Maasai Sandals",
       "checked": false,
-      "id": "30a6"
+      "id": "a678"
     },
     {
       "value": "Arrivals Genuine",
       "label": "Arrivals Genuine",
       "checked": false,
-      "id": "2074"
+      "id": "a7a9"
     },
     {
       "value": "Vintage Apparel",
       "label": "Vintage Apparel",
       "checked": false,
-      "id": "57d0"
+      "id": "6998"
     },
     {
       "value": "FREE FIRE",
       "label": "FREE FIRE",
       "checked": false,
-      "id": "cdf7"
+      "id": "3179"
     },
     {
       "value": "The Warehouse",
       "label": "The Warehouse",
       "checked": false,
-      "id": "2231"
+      "id": "c7ee"
     },
     {
       "value": "Sneakers",
       "label": "Sneakers",
       "checked": false,
-      "id": "f113"
+      "id": "330d"
     },
     {
       "value": "Rubber",
       "label": "Rubber",
       "checked": false,
-      "id": "7636"
+      "id": "635d"
     },
     {
       "value": "Naviforce",
       "label": "Naviforce",
       "checked": false,
-      "id": "ead9"
+      "id": "a974"
     },
     {
       "value": "SKMEI 9117",
       "label": "SKMEI 9117",
       "checked": false,
-      "id": "89ea"
+      "id": "a75f"
     },
     {
       "value": "Strap Skeleton",
       "label": "Strap Skeleton",
       "checked": false,
-      "id": "567e"
+      "id": "98a5"
     },
     {
       "value": "Stainless",
       "label": "Stainless",
       "checked": false,
-      "id": "57b4"
+      "id": "90fd"
     },
     {
       "value": "Eastern Watches",
       "label": "Eastern Watches",
       "checked": false,
-      "id": "8b15"
+      "id": "2256"
     },
     {
       "value": "Luxury Digital",
       "label": "Luxury Digital",
       "checked": false,
-      "id": "52fa"
+      "id": "ea5c"
     },
     {
       "value": "Watch Pearls",
       "label": "Watch Pearls",
       "checked": false,
-      "id": "8aa0"
+      "id": "bf6e"
     },
     {
       "value": "Bracelet",
       "label": "Bracelet",
       "checked": false,
-      "id": "590f"
+      "id": "8515"
     },
     {
       "value": "LouisWill",
       "label": "LouisWill",
       "checked": false,
-      "id": "6e57"
+      "id": "eb18"
     },
     {
       "value": "Copenhagen Luxe",
       "label": "Copenhagen Luxe",
       "checked": false,
-      "id": "1244"
+      "id": "7681"
     },
     {
       "value": "Steal Frame",
       "label": "Steal Frame",
       "checked": false,
-      "id": "50a2"
+      "id": "7a2f"
     },
     {
       "value": "Darojay",
       "label": "Darojay",
       "checked": false,
-      "id": "bb5e"
+      "id": "4d77"
     },
     {
       "value": "Fashion Jewellery",
       "label": "Fashion Jewellery",
       "checked": false,
-      "id": "25d3"
+      "id": "9782"
     },
     {
       "value": "Cuff Butterfly",
       "label": "Cuff Butterfly",
       "checked": false,
-      "id": "485f"
+      "id": "0114"
     },
     {
       "value": "Designer Sun Glasses",
       "label": "Designer Sun Glasses",
       "checked": false,
-      "id": "bd31"
+      "id": "6cbb"
     },
     {
       "value": "mastar watch",
       "label": "mastar watch",
       "checked": false,
-      "id": "60b5"
+      "id": "fcb8"
     },
     {
       "value": "Car Aux",
       "label": "Car Aux",
       "checked": false,
-      "id": "c053"
+      "id": "3018"
     },
     {
       "value": "W1209 DC12V",
       "label": "W1209 DC12V",
       "checked": false,
-      "id": "1bf8"
+      "id": "991c"
     },
     {
       "value": "TC Reusable",
       "label": "TC Reusable",
       "checked": false,
-      "id": "6c3d"
+      "id": "3036"
     },
     {
       "value": "Neon LED Light",
       "label": "Neon LED Light",
       "checked": false,
-      "id": "aba3"
+      "id": "1ebf"
     },
     {
       "value": "METRO 70cc Motorcycle - MR70",
       "label": "METRO 70cc Motorcycle   MR70",
       "checked": false,
-      "id": "dce3"
+      "id": "e4a0"
     },
     {
       "value": "BRAVE BULL",
       "label": "BRAVE BULL",
       "checked": false,
-      "id": "acaf"
+      "id": "cc30"
     },
     {
       "value": "shock absorber",
       "label": "shock absorber",
       "checked": false,
-      "id": "b006"
+      "id": "21cc"
     },
     {
       "value": "JIEPOLLY",
       "label": "JIEPOLLY",
       "checked": false,
-      "id": "e5f5"
+      "id": "a3b9"
     },
     {
       "value": "Xiangle",
       "label": "Xiangle",
       "checked": false,
-      "id": "6e36"
+      "id": "484e"
     },
     {
       "value": "lightingbrilliance",
       "label": "lightingbrilliance",
       "checked": false,
-      "id": "dd19"
+      "id": "2eca"
     },
     {
       "value": "Ifei Home",
       "label": "Ifei Home",
       "checked": false,
-      "id": "d388"
+      "id": "467b"
     },
     {
       "value": "DADAWU",
       "label": "DADAWU",
       "checked": false,
-      "id": "83d0"
+      "id": "a407"
     },
     {
       "value": "YIOSI",
       "label": "YIOSI",
       "checked": false,
-      "id": "4817"
+      "id": "8087"
     }
   ],
   "categories": [
@@ -2331,121 +2333,121 @@
       "value": "smartphones",
       "label": "smartphones",
       "checked": false,
-      "id": "a806"
+      "id": "4ec3"
     },
     {
       "value": "laptops",
       "label": "laptops",
       "checked": false,
-      "id": "6292"
+      "id": "a184"
     },
     {
       "value": "fragrances",
       "label": "fragrances",
       "checked": false,
-      "id": "36dc"
+      "id": "d35e"
     },
     {
       "value": "skincare",
       "label": "skincare",
       "checked": false,
-      "id": "0b56"
+      "id": "6c4f"
     },
     {
       "value": "groceries",
       "label": "groceries",
       "checked": false,
-      "id": "c114"
+      "id": "2ea5"
     },
     {
       "value": "home-decoration",
       "label": "home decoration",
       "checked": false,
-      "id": "3f5c"
+      "id": "f0f5"
     },
     {
       "value": "furniture",
       "label": "furniture",
       "checked": false,
-      "id": "e304"
+      "id": "01f3"
     },
     {
       "value": "tops",
       "label": "tops",
       "checked": false,
-      "id": "ffd7"
+      "id": "e294"
     },
     {
       "value": "womens-dresses",
       "label": "womens dresses",
       "checked": false,
-      "id": "a8bf"
+      "id": "ac8a"
     },
     {
       "value": "womens-shoes",
       "label": "womens shoes",
       "checked": false,
-      "id": "abe0"
+      "id": "e30a"
     },
     {
       "value": "mens-shirts",
       "label": "mens shirts",
       "checked": false,
-      "id": "5447"
+      "id": "92b3"
     },
     {
       "value": "mens-shoes",
       "label": "mens shoes",
       "checked": false,
-      "id": "177c"
+      "id": "8d09"
     },
     {
       "value": "mens-watches",
       "label": "mens watches",
       "checked": false,
-      "id": "98aa"
+      "id": "8b7d"
     },
     {
       "value": "womens-watches",
       "label": "womens watches",
       "checked": false,
-      "id": "08dd"
+      "id": "1b1a"
     },
     {
       "value": "womens-bags",
       "label": "womens bags",
       "checked": false,
-      "id": "0a3a"
+      "id": "94a2"
     },
     {
       "value": "womens-jewellery",
       "label": "womens jewellery",
       "checked": false,
-      "id": "b48f"
+      "id": "691f"
     },
     {
       "value": "sunglasses",
       "label": "sunglasses",
       "checked": false,
-      "id": "709d"
+      "id": "007a"
     },
     {
       "value": "automotive",
       "label": "automotive",
       "checked": false,
-      "id": "d466"
+      "id": "d899"
     },
     {
       "value": "motorcycle",
       "label": "motorcycle",
       "checked": false,
-      "id": "7b7e"
+      "id": "7aa1"
     },
     {
       "value": "lighting",
       "label": "lighting",
       "checked": false,
-      "id": "427d"
+      "id": "669d"
     }
   ],
   "users": [
@@ -2500,14 +2502,35 @@
       "id": "3"
     },
     {
-      "id": "cc24",
+      "id": "8d83",
       "email": "Test1@gmail.com",
       "password": "Test1@gmail.com",
       "addresses": [],
       "role": "user"
     }
   ],
-  "cart": [],
+  "cart": [
+    {
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "brand": "Huawei",
+      "category": "smartphones",
+      "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+      "images": [
+        "https://i.dummyjson.com/data/products/5/1.jpg",
+        "https://i.dummyjson.com/data/products/5/2.jpg",
+        "https://i.dummyjson.com/data/products/5/3.jpg"
+      ],
+      "productId": 5,
+      "quantity": 1,
+      "user": 2,
+      "id": "1"
+    }
+  ],
   "orders": [
     {
       "items": [
@@ -2569,7 +2592,7 @@
         "state": "Karnataka",
         "pinCode": "560034"
       },
-      "status": "pending",
+      "status": "dispatched",
       "id": "1"
     },
     {
@@ -2632,7 +2655,7 @@
         "state": "Karnataka",
         "pinCode": "560034"
       },
-      "status": "pending",
+      "status": "delivered",
       "id": "2"
     },
     {
@@ -2702,7 +2725,7 @@
         "state": "Maharastra",
         "pinCode": "220001"
       },
-      "status": "pending",
+      "status": "cancelled",
       "id": "3"
     },
     {
@@ -2831,6 +2854,379 @@
       },
       "status": "pending",
       "id": "5"
+    },
+    {
+      "items": [
+        {
+          "title": "iPhone X",
+          "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+          "price": 1111,
+          "discountPercentage": 17.94,
+          "rating": 0,
+          "stock": 34,
+          "brand": "Apple",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/2/1.jpg",
+            "https://i.dummyjson.com/data/products/2/2.jpg",
+            "https://i.dummyjson.com/data/products/2/3.jpg",
+            "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+          ],
+          "quantity": 2,
+          "user": 1,
+          "id": 1
+        }
+      ],
+      "totalAmount": 1824,
+      "totalItems": 2,
+      "user": {
+        "email": "test@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Abhishek Rathore",
+            "email": "test@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Banaglore",
+            "state": "Karnataka",
+            "pinCode": "560034"
+          },
+          {
+            "name": "Jack Morris",
+            "email": "jack@gmail.com",
+            "city": "Delhi",
+            "state": "Delhi",
+            "pinCode": "110006",
+            "phone": "12312331232",
+            "street": "12th cross"
+          }
+        ],
+        "id": 1
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Jack Morris",
+        "email": "jack@gmail.com",
+        "city": "Delhi",
+        "state": "Delhi",
+        "pinCode": "110006",
+        "phone": "12312331232",
+        "street": "12th cross"
+      },
+      "status": "pending",
+      "id": "6"
+    },
+    {
+      "items": [
+        {
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/3/1.jpg"
+          ],
+          "quantity": 1,
+          "user": 2,
+          "id": 1
+        },
+        {
+          "title": "Huawei P30",
+          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+          "price": 499,
+          "discountPercentage": 10.58,
+          "rating": 4.09,
+          "stock": 32,
+          "brand": "Huawei",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/5/1.jpg",
+            "https://i.dummyjson.com/data/products/5/2.jpg",
+            "https://i.dummyjson.com/data/products/5/3.jpg"
+          ],
+          "quantity": 1,
+          "user": 2,
+          "id": 2
+        }
+      ],
+      "totalAmount": 1502,
+      "totalItems": 2,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "pending",
+      "id": "7"
+    },
+    {
+      "items": [
+        {
+          "title": "Samsung Universe 9",
+          "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+          "price": 1249,
+          "discountPercentage": 15.46,
+          "rating": 4.09,
+          "stock": 36,
+          "brand": "Samsung",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/3/1.jpg"
+          ],
+          "quantity": 1,
+          "user": 2,
+          "id": 1
+        },
+        {
+          "title": "Huawei P30",
+          "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+          "price": 499,
+          "discountPercentage": 10.58,
+          "rating": 4.09,
+          "stock": 32,
+          "brand": "Huawei",
+          "category": "smartphones",
+          "thumbnail": "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/5/1.jpg",
+            "https://i.dummyjson.com/data/products/5/2.jpg",
+            "https://i.dummyjson.com/data/products/5/3.jpg"
+          ],
+          "quantity": 1,
+          "user": 2,
+          "id": 2
+        }
+      ],
+      "totalAmount": 1502,
+      "totalItems": 2,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "pending",
+      "id": "8"
+    },
+    {
+      "items": [
+        {
+          "title": "MacBook Pro",
+          "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
+          "price": 1999,
+          "discountPercentage": 11.02,
+          "rating": 0,
+          "stock": 83,
+          "brand": "Apple",
+          "category": "laptops",
+          "thumbnail": "https://i.dummyjson.com/data/products/6/thumbnail.png",
+          "images": [
+            "https://i.dummyjson.com/data/products/6/1.png",
+            "https://i.dummyjson.com/data/products/6/2.jpg",
+            "https://i.dummyjson.com/data/products/6/3.png",
+            "https://i.dummyjson.com/data/products/6/thumbnail.png"
+          ],
+          "quantity": 1,
+          "user": 2,
+          "id": 1
+        }
+      ],
+      "totalAmount": 1779,
+      "totalItems": 1,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "pending",
+      "id": "9"
+    },
+    {
+      "items": [
+        {
+          "title": "Microsoft Surface Laptop 4",
+          "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+          "price": 1499,
+          "discountPercentage": 10.23,
+          "rating": 4.43,
+          "stock": 68,
+          "brand": "Microsoft Surface",
+          "category": "laptops",
+          "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/8/1.jpg",
+            "https://i.dummyjson.com/data/products/8/2.jpg",
+            "https://i.dummyjson.com/data/products/8/3.jpg",
+            "https://i.dummyjson.com/data/products/8/4.jpg",
+            "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+          ],
+          "quantity": 1,
+          "user": 2,
+          "id": 1
+        }
+      ],
+      "totalAmount": 1346,
+      "totalItems": 1,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "pending",
+      "id": "10"
+    },
+    {
+      "items": [
+        {
+          "title": "Microsoft Surface Laptop 4",
+          "description": "Style and speed. Stand out on HD video calls backed by Studio Mics. Capture ideas on the vibrant touchscreen.",
+          "price": 1499,
+          "discountPercentage": 10.23,
+          "rating": 4.43,
+          "stock": 68,
+          "brand": "Microsoft Surface",
+          "category": "laptops",
+          "thumbnail": "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+          "images": [
+            "https://i.dummyjson.com/data/products/8/1.jpg",
+            "https://i.dummyjson.com/data/products/8/2.jpg",
+            "https://i.dummyjson.com/data/products/8/3.jpg",
+            "https://i.dummyjson.com/data/products/8/4.jpg",
+            "https://i.dummyjson.com/data/products/8/thumbnail.jpg"
+          ],
+          "quantity": 2,
+          "user": 2,
+          "id": 1
+        }
+      ],
+      "totalAmount": 2692,
+      "totalItems": 2,
+      "user": {
+        "email": "demo@gmail.com",
+        "password": "Qwerty123",
+        "role": "user",
+        "addresses": [
+          {
+            "name": "Demo user",
+            "email": "demo@gmail.com",
+            "phone": "1234567788",
+            "street": "11th Main",
+            "city": "Mumbai",
+            "state": "Maharastra",
+            "pinCode": "220001"
+          }
+        ],
+        "id": 2
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Demo user",
+        "email": "demo@gmail.com",
+        "phone": "1234567788",
+        "street": "11th Main",
+        "city": "Mumbai",
+        "state": "Maharastra",
+        "pinCode": "220001"
+      },
+      "status": "pending",
+      "id": "11"
     }
   ]
 }
